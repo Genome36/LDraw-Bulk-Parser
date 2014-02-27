@@ -9,6 +9,6 @@
 },
 {
 "title":"Changing old color with new color.",
-"content":("""To change a color with a new one:\nIf you know the color code, enter it in its respective entry then its new color to be replaced with also in its respective entry.\n[ Only a single color can be changed at a time ]""")
+"content":"To change a color with a new one:\nIf you know the color code, enter it in its respective entry then its new color to be replaced with also in its respective entry.\n[ Only a single color can be changed at a time ]"
 }
 ]
