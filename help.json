@@ -5,6 +5,6 @@
 	},
 	{
 		"title":"Changing parts colors.",
-		"content":"To change a part color:\nIf you know the part id, enter it in the entry specific to it.\n[Multiple parts can be entered if shift clicked in the parts list or if writen by hand can be specified by seperating them with a coma and a space ', ''] "
+		"content":"""To change a part color:\nIf you know the part id, enter it in the entry specific to it.\n[Multiple parts can be entered if shift clicked in the parts list or if writen by hand can be specified by seperating them with a coma and a space ', ''] """
 	}
 ]
