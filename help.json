@@ -4,7 +4,7 @@
 		"content":"To change parts numbers or colors code; two ways:\n1 -  If you know the part id and/or color code, you can enter them in their respective entry boxes.\n2 - You can search for the part id or color code in the tabs located at the right of the application and click on one of them to set them."
 	},
 	{
-		"title":"",
-		"content":""
+		"title":"Changing parts colors.",
+		"content":"To change a part color:\nIf you know the part id, enter it in the entry specific to it.\n[Multiple parts can be entered if shift clicked in the parts list or if writen by hand can be specified by seperating them with a coma and a space ', ''] "
 	}
 ]
